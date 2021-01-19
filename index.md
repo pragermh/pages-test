@@ -20,8 +20,7 @@ also developing a `molecular module <sbdi-mol-mod.html>`\_ to help
 integrate ASV occurrences into the
 `BioAtlas portal <https://bioatlas.se/>`\_.
 
-![SBDI data flow and
-services](images/data-flow.png) 
+![SBDI data flow and services](images/data-flow.png) 
 
 SBDI data flow and services for amplicon sequence data.
 
