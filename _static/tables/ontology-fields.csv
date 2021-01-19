@@ -1,0 +1,4 @@
+﻿Checklist,Ontology-linked attribute, "ENA description, in brief"
+[ All ],`environment (biome) <https://www.ebi.ac.uk/ols/ontologies/envo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FENVO_00000428>`_, "Broad ecological context, e.g. desert, taiga, deciduous woodland, or coral reef"
+[ All ],`environment (feature) <https://www.ebi.ac.uk/ols/ontologies/envo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FENVO_00002297>`_, "More local environment, e.g. harbor, cliff, or lake"
+[ All ],`environment (material) <https://www.ebi.ac.uk/ols/ontologies/envo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FENVO_00010483>`_, "Material displaced by sample, or in which sample was embedded. Generally mass nouns, e.g. air, soil, or water"

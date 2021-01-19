@@ -1,0 +1,6 @@
+#checklist_accession,ERC000024
+#unique_name_prefix
+sample_alias,tax_id,scientific_name,common_name,sample_title,sample_description,project name,target gene,target subfragment,pcr primers,sequencing method,investigation type,collection date,geographic location (country and/or sea),geographic location (latitude),geographic location (longitude),water environmental package,environment (biome),environment (feature),environment (material)
+#template,,,,,,,,,,,,,,,,water,,,
+#units,,,,,,,,,,,,,,DD,DD,,,
+,,,,,,,,,,,,,,,,water,,

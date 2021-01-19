@@ -1,0 +1,4 @@
+sample_alias,instrument_model,library_name,library_source,library_selection,library_strategy,design_description,library_construction_protocol,insert_size,forward_file_name,forward_file_md5,reverse_file_name,reverse_file_md5
+ERS3334814,Illumina MiSeq,16S rRNA amplicon of Sample 1,METAGENOMIC,PCR,AMPLICON,,,428,F3D148_S214_L001_R1_001.fastq.gz,bb8f57f8a94050de3d8ad47d03477e68,F3D148_S214_L001_R2_001.fastq.gz,d71d368d056b1d4bcf0ea74628f4d63a
+ERS3334815,Illumina MiSeq,16S rRNA amplicon of Sample 2,METAGENOMIC,PCR,AMPLICON,,,428,F3D149_S215_L001_R1_001.fastq.gz,f76e0d9366998f7509a7aaca640cc842,F3D149_S215_L001_R2_001.fastq.gz,6c9acb1f743d984e07a9ce6b35b0fb6a
+ERS3334816,Illumina MiSeq,16S rRNA amplicon of Sample 3,METAGENOMIC,PCR,AMPLICON,,,428,F3D150_S216_L001_R1_001.fastq.gz,e869e2b2bff6cd6c5dbe8f1b1d22d5bc,F3D150_S216_L001_R2_001.fastq.gz,f3c6d5a3dae027187ff5f80100d37482
