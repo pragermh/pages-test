@@ -91,12 +91,8 @@ Consortium (GSC) MIxS checklists* (described
 provides the most specific match to your sampled environment, for
 example:
 
-> file
-> :   \_static/tables/recommended-checklists.csv
->
-> header-rows
-> :   1
->
+![recommended checklists](/tables/recommended-checklists.csv)
+
 Note that most GSC MIxS checklists have similar setups of mandatory and
 recommended attributes, i.e. differ mainly in terms of which optional
 attributes can be added and validated during submission. The
