@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: sphinx_rtd_theme
 plugins:
   - jekyll-relative-links
 relative_links:
